@@ -1,10 +1,10 @@
 # Wallet Plugin Browser Extension
 
-This browser extension is a wallet for [OverGold](https://overgold.io/ru/).
+Это расширение для браузера представляет собой кошелек для [OverGold](https://overgold.io/ru/).
 
-You can get acquainted with the Whitepaper of the project by the [link](https://overgold.io/ru/whitePaper.html).
+Ознакомиться с Whitepaper проекта можно по ссылке [link](https://overgold.io/ru/whitePaper.html).
 
-# Plugin download instructions
+# Инструкции по загрузке плагина
 
 **Шаг 1:** перейти по ссылке [https://github.com/vipcoin-gold/wallet-plugin/releases](https://github.com/vipcoin-gold/wallet-plugin/releases)
 
