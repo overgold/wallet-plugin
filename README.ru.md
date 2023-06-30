@@ -2,7 +2,7 @@
 
 Это расширение для браузера представляет собой кошелек для [OverGold](https://overgold.io/ru/).
 
-Ознакомиться с Whitepaper проекта можно по ссылке [link](https://overgold.io/ru/whitePaper.html).
+Ознакомиться с Whitepaper проекта можно по [ссылке](https://overgold.io/ru/whitePaper.html).
 
 # Инструкции по загрузке плагина
 
