@@ -6,6 +6,6 @@ You can get acquainted with the Whitepaper of the project by the [link](https://
 
 # Plugin download instructions
 
-## Step 1: follow the link [https://github.com/vipcoin-gold/wallet-plugin/releases](https://github.com/vipcoin-gold/wallet-plugin/releases)
+**Step 1: follow the link** [https://github.com/vipcoin-gold/wallet-plugin/releases](https://github.com/vipcoin-gold/wallet-plugin/releases)
 
 ![Step 1](https://github.com/vipcoin-gold/wallet-plugin/blob/main/images/image9.png)
